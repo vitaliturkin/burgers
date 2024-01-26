@@ -1,3 +1,3 @@
-Buger House - restaurant to order food online in Russian language.
+Burger House - cafe to order food online in Russian language.
 
-The project was done using HTML, CSS and Typecript in WebStorm & Angular.
+The project used HTML, CSS and Typescript in WebStorm & Angular.
